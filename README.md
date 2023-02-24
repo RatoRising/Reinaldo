@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Porgramming is not an easy task but is a valuable lesson in life.
 <br>
 
- ![rnvdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnvdeveloper&show_icons=true&theme=radical)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdeveloper&layout=compact)
+![rnvdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnvdeveloper&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdeveloper&layout=compact)
 
 
