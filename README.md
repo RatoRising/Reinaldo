@@ -8,6 +8,6 @@
 <br>
 
 ![rnvdeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnvdeveloper&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdeveloper&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnvdeveloper&layout=compact&langs_count=8)
 
 
