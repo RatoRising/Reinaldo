@@ -1,4 +1,4 @@
-### Hi there my name is Reinaldo and I am a frontend developer of the future!
+### Hi there! My name is Reinaldo and I am a frontend developer of the future!
 <hr>
 
 - 🔭 I’m currently working on building my portfolio with some small projects.
